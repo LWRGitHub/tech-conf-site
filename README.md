@@ -19,14 +19,14 @@ This is A website I built with basic HTML/CSS & JS. It is a full stack tech conf
 
 ***Home/About***
 
-<img src="#" alt="this is a screen shot of the home & about section of the full stack conf website.">
+<img src="https://raw.githubusercontent.com/LWRGitHub/tech-conf-site/main/img/readme-img/home-about.png" alt="this is a screen shot of the home & about section of the full stack conf website.">
 
 
 ***Speakers/Schedule***
 
-<img src="#" alt="this is a screen shot of the Speakers & Schedule section of the full stack conf website.">
+<img src="https://raw.githubusercontent.com/LWRGitHub/tech-conf-site/main/img/readme-img/speakers-schedule.png" alt="this is a screen shot of the Speakers & Schedule section of the full stack conf website.">
 
 
 ***Form***
 
-<img src="#" alt="this is a screen shot of the form section of the full stack conf website.">
+<img src="https://raw.githubusercontent.com/LWRGitHub/tech-conf-site/main/img/readme-img/form.png" alt="this is a screen shot of the form section of the full stack conf website.">
