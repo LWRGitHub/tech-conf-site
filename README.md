@@ -8,6 +8,7 @@ This is A website I built with basic HTML/CSS & JS. It is a full stack tech conf
 - DOM
 - jQuery 
 - Bootstrap
+- [GitHub Pages](https://lwrgithub.github.io/tech-conf-site/)
 
 
 ## Setup/Install
